@@ -2,11 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-catboost_info/
+**/catboost_info/
 # C extensions
 *.so
-.venv312/
-venv312
+.venv*/
+venv*/
 
 # Distribution / packaging
 .Python
