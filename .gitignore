@@ -2,9 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+catboost_info/
 # C extensions
 *.so
+.venv312/
+venv312
 
 # Distribution / packaging
 .Python
@@ -205,3 +207,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.DS_Store
